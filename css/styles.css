@@ -7,8 +7,6 @@ button.navbar-toggler{
 }
 li{
 	background-color: #ffe0bd;
-	width: 100%;
-	right: 0px;
 	border: 1px solid black;
 }
 .items1,.items2,.items3{
