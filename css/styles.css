@@ -1,0 +1,21 @@
+
+.navbar{
+	background-color: #c0ffee;
+}
+button.navbar-toggler{
+	border: 2px solid brown;
+}
+li{
+	background-color: #ffe0bd;
+	width: 100%;
+	right: 0px;
+	border: 1px solid black;
+}
+.items1,.items2,.items3{
+	background-color: #fffdc9;
+}
+@media(min-width: 950px){
+	li{
+		display: none;
+	}
+}
